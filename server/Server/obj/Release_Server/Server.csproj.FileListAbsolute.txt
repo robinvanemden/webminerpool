@@ -1,0 +1,4 @@
+/mnt/c/Users/robin/Documents/GitHub/webminerpool/server/Server/bin/Release_Server/pools.json
+/mnt/c/Users/robin/Documents/GitHub/webminerpool/server/Server/bin/Release_Server/server.exe
+/mnt/c/Users/robin/Documents/GitHub/webminerpool/server/Server/obj/Release_Server/Server.csprojAssemblyReference.cache
+/mnt/c/Users/robin/Documents/GitHub/webminerpool/server/Server/obj/Release_Server/server.exe

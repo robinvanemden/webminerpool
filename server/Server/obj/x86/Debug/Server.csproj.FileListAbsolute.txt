@@ -1,0 +1,1 @@
+C:\Users\robin\Documents\GitHub\webminerpool\server\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache

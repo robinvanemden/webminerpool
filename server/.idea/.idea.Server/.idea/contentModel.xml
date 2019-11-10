@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\robin\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\robin\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Server.-820830581.00" t="ExcludeRecursive" />
+    <e p="C:\Users\robin\Documents\GitHub\webminerpool\server" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="pools.json" t="Include" />
+      <e p="server" t="IncludeRecursive">
+        <e p="AlgorithmHelper.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CConsole.cs" t="Include" />
+        <e p="DataStructures.cs" t="Include" />
+        <e p="DevDonation.cs" t="Include" />
+        <e p="EmptyWebsocket.cs" t="Include" />
+        <e p="Extensions.cs" t="Include" />
+        <e p="Firewall.cs" t="Include" />
+        <e p="Fleck" t="Include">
+          <e p="BufferPool.cs" t="Include" />
+          <e p="ConnectionNotAvailableException.cs" t="Include" />
+          <e p="FleckLog.cs" t="Include" />
+          <e p="FrameType.cs" t="Include" />
+          <e p="HandlerFactory.cs" t="Include" />
+          <e p="Handlers" t="Include">
+            <e p="ComposableHandler.cs" t="Include" />
+            <e p="Draft76Handler.cs" t="Include" />
+            <e p="FlashSocketPolicyRequestHandler.cs" t="Include" />
+            <e p="Hybi13Handler.cs" t="Include" />
+          </e>
+          <e p="HandshakeException.cs" t="Include" />
+          <e p="Helpers" t="Include">
+            <e p="MonoHelper.cs" t="Include" />
+          </e>
+          <e p="Interfaces" t="Include">
+            <e p="IHandler.cs" t="Include" />
+            <e p="ISocket.cs" t="Include" />
+            <e p="IWebSocketConnection.cs" t="Include" />
+            <e p="IWebSocketConnectionInfo.cs" t="Include" />
+            <e p="IWebSocketServer.cs" t="Include" />
+          </e>
+          <e p="IntExtensions.cs" t="Include" />
+          <e p="QueuedStream.cs" t="Include" />
+          <e p="ReadState.cs" t="Include" />
+          <e p="RequestParser.cs" t="Include" />
+          <e p="SocketWrapper.cs" t="Include" />
+          <e p="SubProtocolNegotiationFailureException.cs" t="Include" />
+          <e p="SubProtocolNegotiator.cs" t="Include" />
+          <e p="WebSocketConnection.cs" t="Include" />
+          <e p="WebSocketConnectionInfo.cs" t="Include" />
+          <e p="WebSocketException.cs" t="Include" />
+          <e p="WebSocketHttpRequest.cs" t="Include" />
+          <e p="WebSocketServer.cs" t="Include" />
+          <e p="WebSocketStatusCodes.cs" t="Include" />
+        </e>
+        <e p="Helper.cs" t="Include" />
+        <e p="JSONParser.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="PoolConnection.cs" t="Include" />
+        <e p="PoolList.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Random2.cs" t="Include" />
+        <e p="Server.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Server.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
